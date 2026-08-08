@@ -1,5 +1,3 @@
-# AI_Market_trend_analysis
-
 # 📰 Fake News Detection and Analysis
 
 ## 📌 Overview
