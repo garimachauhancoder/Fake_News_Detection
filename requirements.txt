@@ -1,0 +1,9 @@
+streamlit
+scikit-learn
+pandas
+numpy
+spacy
+joblib
+matplotlib
+plotly
+wordcloud
